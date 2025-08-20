@@ -1,0 +1,75 @@
+*{
+  padding : 0%;
+  margin : 0%;
+  box-sizing : border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+html,body{
+  height : 100%;
+  width : 100%;
+}
+
+
+
+#main{
+  height : 100%;
+  width : 100%;
+
+}
+
+#nirvana{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
+
+#sc{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
+
+#coding{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
+
+#robot{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
+
+#laptop{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
+
+#gaming{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
+
+#seminar{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
+
+#th{
+  margin-top : 10px;
+  border-radius : 10px;
+  box-shadow : 0 0 10px rgba(0,0,0,0.5);
+  transition : transform 0.5s;
+}
